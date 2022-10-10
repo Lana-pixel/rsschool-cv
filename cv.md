@@ -1,16 +1,18 @@
 # Svetlana Osborn
 ### Software engineer
 <br>
-##Contact information
-####**Phone**: +447592415708
-####**Email**: svetlanaosborn@gmail.com
-##Summary
+## Contact information
+
+#### **Phone**: +447592415708
+#### **Email**: svetlanaosborn@gmail.com
+
+## Summary
 Hey! My name is Lana Osborn and I'm software engineer based in UK. 
 Creative, detail-oriented, software engineer with a deep interest in AI. Proven track record
 of creating and implementing successful front and back end web applications. Looking to
 bring my skills to a tech company with global reach.
 
-##Skills
+## Skills
 [](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -26,7 +28,7 @@ bring my skills to a tech company with global reach.
 ...
 </details>
 
-###Code example
+### Code example
 ```javascript
 const func = (num) => {
   if (num > 0) {
@@ -36,7 +38,7 @@ const func = (num) => {
 };
 ```
 
-###Experience
+### Experience
 Software Engineer at 100devs, Los Angeles, CA
 October 2020 — Present
 ● Collaborated with a team of developers to build modern and responsive web
@@ -44,11 +46,11 @@ applications using best practices
 ● Built semantically structured full stack web applications
 ● Applied agile methodologies like SCRUM for project management
 
-###Education
+### Education
 UMASS BOSTON
 2015 - 2017
 Major: Business Admin
 
-###Languages
+### Languages
 Russian - Native
 English - Upper-Intermediate
