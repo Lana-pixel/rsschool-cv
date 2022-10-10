@@ -1,6 +1,7 @@
 # Svetlana Osborn
 ### Software engineer
 <br>
+
 ## Contact information
 
 #### **Phone**: +447592415708
@@ -40,17 +41,17 @@ const func = (num) => {
 
 ### Experience
 Software Engineer at 100devs, Los Angeles, CA
-October 2020 — Present
+October 2020 — Present/
 ● Collaborated with a team of developers to build modern and responsive web
-applications using best practices
-● Built semantically structured full stack web applications
+applications using best practices/
+● Built semantically structured full stack web applications/
 ● Applied agile methodologies like SCRUM for project management
 
 ### Education
-UMASS BOSTON
-2015 - 2017
+UMASS BOSTON/
+2015 - 2017/
 Major: Business Admin
 
 ### Languages
-Russian - Native
+Russian - Native/
 English - Upper-Intermediate
