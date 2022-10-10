@@ -42,9 +42,12 @@ const func = (num) => {
 ### Experience
 Software Engineer at 100devs, Los Angeles, CA
 October 2020 — Present/
+
 ● Collaborated with a team of developers to build modern and responsive web
 applications using best practices/
+
 ● Built semantically structured full stack web applications/
+
 ● Applied agile methodologies like SCRUM for project management
 
 ### Education
