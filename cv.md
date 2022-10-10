@@ -38,7 +38,7 @@ const func = (num) => {
 };
 ```
 
-###Experiens
+###Experience
 Software Engineer at 100devs, Los Angeles, CA
 October 2020 — Present
 ● Collaborated with a team of developers to build modern and responsive web
