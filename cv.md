@@ -1,11 +1,9 @@
 # Svetlana Osborn
 ### Software engineer
 <br>
-
 ##Contact information
 ####**Phone**: +447592415708
 ####**Email**: svetlanaosborn@gmail.com
-
 ##Summary
 Hey! My name is Lana Osborn and I'm software engineer based in UK. 
 Creative, detail-oriented, software engineer with a deep interest in AI. Proven track record
